@@ -8,12 +8,12 @@
      {
         name: 'Borivik',
         title: 'Artista da Guerra',
-        imgsrc:'./assets/borivik.PNG'
+        imgsrc:'./public/assets/borivik.PNG'
     },
     {
         name: 'Dante',
         title: 'Samurai Exorcista',
-        imgsrc:'./assets/Casual1 - Copia.jpg'
+        imgsrc:'./public/assets/Casual1 - Copia.jpg'
     },
     {
         name: "Rag'Oth'Er",
